@@ -1,0 +1,7 @@
+Hi there,
+
+This attached project has CRUD operations created using Spring Boot, H2, JPA annotations & JPARepository.
+Additionally provided the Exception class to show RESOURCE NOT FOUND with proper block.
+Kindly take checkout -> try to add some data first using Post method (as i have used H2 DB which is in-memory database), afterwards do other operations like Get, Put, Delete -> to check Exception try to pass some id which is not available.
+
+Happy coding..!
